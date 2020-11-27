@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Subscribers</string>
+
+    <!-- Descriptions -->
+    <string name="desc_add_subscriber">Add Subscriber</string>
+
+    <!-- SubscriberFragment -->
+    <string name="subscriber_name_hint">Subscriber\'s Name</string>
+    <string name="subscriber_email_hint">E-mail</string>
+    <string name="subscriber_button">Add</string>
+    <string name="subscriber_title">"Subscriber "</string>
+    <string name="subscriber_inserter_successfully">Subscriber was successfully inserted</string>
+    <string name="subscriber_error_to_insert">There was an error when inserting Subscriber</string>
+
+    <!-- SubscriberListFragment -->
+    <string name="subscribers_title">Subscribers</string>
+</resources>
